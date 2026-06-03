@@ -1,6 +1,6 @@
 #atm simulation
 b=10000
-pin='aman123'
+pin='aman1234'
 print("1.Check your Balance.")
 print("2.Do You want to Deposit ?")
 print("3.Do you want to withdrawl?")
