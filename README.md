@@ -9,6 +9,7 @@ I regularly update this repository as part of my learning journey and interview 
 
 📂 Folder Structure
 
+```text
 DSA-Practice/
 │
 ├── Basic/
@@ -19,6 +20,7 @@ DSA-Practice/
 │
 └── Patterns/
     └── Pattern Printing Questions
+```
 
 🛠️ Technologies Used
 
