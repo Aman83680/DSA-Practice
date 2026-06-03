@@ -1,0 +1,5 @@
+length=int(input("Enter the length of cuboid:-"))
+breadth=int(input("Enter the breadth of cuboid:-"))
+height=int(input("Enter the height of cuboid-"))
+print("Area of its rectangle:-",length*breadth)
+print("volume of cuboid:-",length*breadth*height)
